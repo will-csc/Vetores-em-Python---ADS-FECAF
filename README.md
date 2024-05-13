@@ -19,3 +19,6 @@ encontrados nas respectivas posições X e Y.
 
 4. Leia um vetor de 10 posições. Contar e escrever quantos valores pares
 ele possui.
+
+## Principal Linguagem Utilizada
+<img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
